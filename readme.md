@@ -3,6 +3,9 @@ msgdown
 
 A simple message formatter for bold, strikethrough, underline, sub, sup, italic and code.
 
+
+![msgdown](https://img.shields.io/travis/mattmezza/msgdown.svg?style=for-the-badge)
+
 ![logo](https://github.com/mattmezza/msgdown/blob/master/logo.png)
 
 ### Installation
