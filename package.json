@@ -1,6 +1,6 @@
 {
   "name": "msgdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple message formatter for bold, strikthrough, underline, sub, sup, italic and code.",
   "main": "src/msgdown.js",
   "repository": "https://github.com/mattmezza/msgdown.git",
