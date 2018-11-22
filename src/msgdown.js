@@ -22,7 +22,7 @@ const defaultTokens = {
 }
 
 module.exports = (text, tokens = defaultTokens) => {
-  tokens = {...defaultTokens, ...tokens}
+  tokens = Object.assign({}, defaultTokens, tokens)
   const appendDefault = () => {
     html += text[index]
     index++
